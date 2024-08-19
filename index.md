@@ -2,17 +2,9 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# _About Me_
 
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+Hello! My name is Sahil, and I'm a junior at UC Berkeley studying Electrical Engineering and Computer Science (EECS). I'm graduating in Spring 2026, and I'm really passionate about software and electrical engineering. I'm skilled in Java, Python, C++ / C, Javascript, Node.js, React.js, Express.js, MongoDB, and many other frameworks and technologies. I'm looking for internship opportunities for Summer 2025 -- you can always message me at sahilsharma (at) berkeley (dot) edu. 
 
 ## Header 2
 
