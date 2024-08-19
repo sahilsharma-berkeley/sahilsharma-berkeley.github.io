@@ -6,28 +6,16 @@ layout: default
 
 Hello! My name is Sahil, and I'm a junior at UC Berkeley studying Electrical Engineering and Computer Science (EECS). I'm graduating in Spring 2026, and I'm really passionate about software and electrical engineering. I'm skilled in Java, Python, C++ / C, Javascript, Node.js, React.js, Express.js, MongoDB, and many other frameworks and technologies. I'm looking for internship opportunities for Summer 2025 -- you can always message me at sahilsharma (at) berkeley (dot) edu. 
 
-## Header 2
+# _Education_
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+**University of California, Berkeley**
+_Bachelor of Science in Electrical Engineering and Computer Science, GPA: 3.8_ 
+_Expected May 2026_
 
-### Header 3
+# _Experience_
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+**Surf Social LLC**
+_Software Engineering intern - San Francisco Bay Area, CA_
 
 #### Header 4
 
