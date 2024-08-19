@@ -20,17 +20,17 @@ _Expected May 2026_
 
 _Software Engineer Intern - San Francisco Bay Area, CA_
 
-    - Collaborated with a team of six to develop a full stack social media web application, with Node.js and Express.js for the backend, and Embedded JavaScript, React.js, and Bootstrap CSS for the UI.
+- Collaborated with a team of six to develop a full stack social media web application, with Node.js and Express.js for the backend, and Embedded JavaScript, React.js, and Bootstrap CSS for the UI.
 
-    - Used the model-view-controller design pattern to create modular code, with CRUD operations available for all user, post, and profile models.
+- Used the model-view-controller design pattern to create modular code, with CRUD operations available for all user, post, and profile models.
 
-    - Developed RESTful API endpoints to connect models, allowing JSON data to be exchanged with error handling middleware for unauthenticated requests.
+- Developed RESTful API endpoints to connect models, allowing JSON data to be exchanged with error handling middleware for unauthenticated requests.
 
-    - Implemented public post functionally and private inter-user chat with notifications using Socket.io.
+- Implemented public post functionally and private inter-user chat with notifications using Socket.io.
 
-    - Allowed for the ”liking” and ”disliking” of posts, with a simple recommendation algorithm to provide users with a custom homepage.
+- Allowed for the ”liking” and ”disliking” of posts, with a simple recommendation algorithm to provide users with a custom homepage.
 
-    - Deployed with Git, Heroku, and MongoDB Atlas.
+- Deployed with Git, Heroku, and MongoDB Atlas.
 
 # _Projects_
 
