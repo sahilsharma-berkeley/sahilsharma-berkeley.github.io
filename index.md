@@ -18,7 +18,7 @@ _Expected May 2026_
 
 **Surf Social LLC, May 2023 - June 2024**
 
-_Software Engineer intern - San Francisco Bay Area, CA_
+_Software Engineer intern  San Francisco Bay Area, CA_
 
     * Collaborated with a team of six to develop a full stack social media web application, with Node.js and Express.js for the
 backend, and Embedded JavaScript, React.js, and Bootstrap CSS for the UI.
