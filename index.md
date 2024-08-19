@@ -16,7 +16,7 @@ _Expected May 2026_
 
 # _Experience_
 
-**Surf Social LLC, May 2023 - June 2024**
+**Surf Social LLC, May 2024 - August 2024**
 
 _Software Engineer Intern - San Francisco Bay Area, CA_
 
