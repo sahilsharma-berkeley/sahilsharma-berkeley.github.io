@@ -81,4 +81,11 @@ Express.js for the webserver and React.js for the UI.
 **Technologies/Frameworks:**  React.js, Node.js, Express.js, Spring Boot, MongoDB, JWT, Passport.js, Postman, Socket.io, Tailwind CSS, MASM
 
 **Developer Tools:** Visual Studio, Eclipse, IntelliJ IDEA, Android Studio, Jupyter Notebook
+
+
+# _Contact_
+
+Please message me at sahilsharma (at) berkeley (dot) edu
+
+Thanks for reading!
 ```
