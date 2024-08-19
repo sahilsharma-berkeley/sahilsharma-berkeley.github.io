@@ -10,15 +10,13 @@ Hello! My name is Sahil, and I'm a junior at UC Berkeley studying Electrical Eng
 
 **University of California, Berkeley**
 
-_Bachelor of Science in Electrical Engineering and Computer Science
-
-_GPA: 3.8_
+_Bachelor of Science in Electrical Engineering and Computer Science, GPA: 3.8_
 
 _Expected May 2026_
 
 # _Experience_
 
-**Surf Social LLC | May 2023 - June 2024 **
+**Surf Social LLC, May 2023 - June 2024**
 
 _Software Engineer intern - San Francisco Bay Area, CA_
 
