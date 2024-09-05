@@ -34,6 +34,7 @@ _Software Engineer Intern - San Francisco Bay Area, CA_
 
 
 
+
 **GuardBot Inc, May 2023 - August 2023**
 
 _Software and Electrical Engineer Intern - Stamford, CT_
