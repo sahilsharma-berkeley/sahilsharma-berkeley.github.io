@@ -32,6 +32,28 @@ _Software Engineer Intern - San Francisco Bay Area, CA_
 
 - Deployed with Git, Heroku, and MongoDB Atlas.
 
+
+**GuardBot Inc, May 2023 - August 2023**
+
+_Software and Electrical Engineer Intern - Stamford, CT_
+
+- Diagnosed and resolved issues in robotic circuits using digital multimeters, identifying faults in signal paths and power
+distribution.
+
+- Set up and calibrated test rigs for robotic components, such as sensors and actuators, enhancing measurement accuracy
+and system performance.
+
+- Implemented and executed test plans for verifying circuit functionality and performance, using MATLAB for data
+analysis and creating detailed performance reports.
+
+- Wrote and optimized C++ programs to interface with robotic hardware, facilitating smooth integration between software
+commands and circuit operations, enhancing system efficiency.
+
+- Created custom C++ routines for automated testing procedures, including real-time monitoring and control of robotic
+test systems, leading to more consistent test results.
+
+
+
 # _Projects_
 
 **openchat** | _React.js, Node.js, Express.js, MongoDB, JWT, Socket.io_
