@@ -33,6 +33,7 @@ _Software Engineer Intern - San Francisco Bay Area, CA_
 - Deployed with Git, Heroku, and MongoDB Atlas.
 
 
+
 **GuardBot Inc, May 2023 - August 2023**
 
 _Software and Electrical Engineer Intern - Stamford, CT_
