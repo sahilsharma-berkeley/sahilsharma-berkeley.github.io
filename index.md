@@ -16,7 +16,7 @@ _Expected May 2026_
 
 # _Experience_
 
-**Surf Social LLC, May 2024 - August 2024**
+**Surf Social LLC, May - August**
 
 _Software Engineer Intern - San Francisco Bay Area, CA_
 
@@ -35,7 +35,7 @@ _Software Engineer Intern - San Francisco Bay Area, CA_
 
 
 
-**GuardBot Inc, May 2023 - August 2023**
+**GuardBot Inc, May - August**
 
 _Software and Electrical Engineer Intern - Stamford, CT_
 
