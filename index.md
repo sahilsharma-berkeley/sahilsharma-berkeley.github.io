@@ -4,7 +4,7 @@ layout: default
 
 # _About Me_
 
-Hello! My name is Sahil, and I'm a junior at UC Berkeley studying Electrical Engineering and Computer Science (EECS). I'm graduating in Spring 2026, and I'm really passionate about software and electrical engineering. I'm skilled in Java, Python, C++ / C, Javascript, Node.js, React.js, Express.js, MongoDB, and many other frameworks and technologies. I'm looking for internship opportunities for Summer 2025 -- you can always message me at sahilsharma (at) berkeley (dot) edu. 
+Hello! My name is Sahil, and I'm a junior at UC Berkeley studying Electrical Engineering and Computer Science (EECS). I'm graduating in December 2025, and I'm really passionate about software and electrical engineering. I'm skilled in CAD (Fusion 360, SolidWorks), Java, Python, C++ / C, Javascript, Node.js, React.js, Express.js, MongoDB, and many other frameworks and technologies. I'm looking for internship opportunities for Summer 2025 -- you can always message me at sahilsharma (at) berkeley (dot) edu. 
 
 # _Education_
 
@@ -12,11 +12,36 @@ Hello! My name is Sahil, and I'm a junior at UC Berkeley studying Electrical Eng
 
 _Bachelor of Science in Electrical Engineering and Computer Science, GPA: 3.8_
 
-_Expected May 2026_
+_Expected December 2025_
 
 # _Experience_
 
-**Surf Social LLC, May - August**
+
+**GuardBot Inc, May 2023 - August 2023**
+
+_Software and Electrical Engineer Intern - Stamford, CT_
+
+- Diagnosed and resolved issues in robotic circuits using digital multimeters, identifying faults in signal paths and power
+distribution.
+
+- Set up and calibrated test rigs for robotic components, such as sensors and actuators, enhancing measurement accuracy
+and system performance.
+
+- Implemented and executed test plans for verifying circuit functionality and performance, using MATLAB for data
+analysis and creating detailed performance reports.
+
+- Wrote and optimized C++ programs to interface with robotic hardware, facilitating smooth integration between software
+commands and circuit operations, enhancing system efficiency.
+
+- Used Revit and CAD software to design detailed models of robotic systems and their simulation environments, including
+creating layouts of mechanical linkages.
+
+- Created custom C++ routines for automated testing procedures, including real-time monitoring and control of robotic
+test systems, leading to more consistent test results.
+
+
+
+**Surf Social LLC, May 2924 - August 2024**
 
 _Software Engineer Intern - San Francisco Bay Area, CA_
 
@@ -33,30 +58,29 @@ _Software Engineer Intern - San Francisco Bay Area, CA_
 - Deployed with Git, Heroku, and MongoDB Atlas.
 
 
-
-
-**GuardBot Inc, May - August**
-
-_Software and Electrical Engineer Intern - Stamford, CT_
-
-- Diagnosed and resolved issues in robotic circuits using digital multimeters, identifying faults in signal paths and power
-distribution.
-
-- Set up and calibrated test rigs for robotic components, such as sensors and actuators, enhancing measurement accuracy
-and system performance.
-
-- Implemented and executed test plans for verifying circuit functionality and performance, using MATLAB for data
-analysis and creating detailed performance reports.
-
-- Wrote and optimized C++ programs to interface with robotic hardware, facilitating smooth integration between software
-commands and circuit operations, enhancing system efficiency.
-
-- Created custom C++ routines for automated testing procedures, including real-time monitoring and control of robotic
-test systems, leading to more consistent test results.
-
-
-
 # _Projects_
+
+**File Compression Application** | _C++, Qt_
+
+- Implemented file compression algorithms in C++, including Huffman coding, to efficiently reduce file sizes while
+maintaining data integrity.
+
+- Designed and created a user-friendly GUI using C++ with the Qt framework, allowing users to easily select files for
+compression, configure compression settings, and view progress.
+
+- Integrated robust file handling mechanisms to read and write compressed files, ensuring compatibility with various file
+types and formats.
+
+- Implemented comprehensive error handling and validation to manage file I/O errors, ensure data integrity, and provide
+user-friendly error messages.
+
+- Conducted extensive testing with various file types and sizes to validate the effectiveness and reliability of the
+compression algorithms, ensuring accurate and consistent results.
+
+- Created detailed user documentation and technical reports in Markdown, explaining the features of the utility,
+installation instructions, and performance benchmarks.
+
+
 
 **openchat** | _React.js, Node.js, Express.js, MongoDB, JWT, Socket.io_
 
