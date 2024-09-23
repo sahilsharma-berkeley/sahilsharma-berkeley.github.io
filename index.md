@@ -41,7 +41,7 @@ test systems, leading to more consistent test results.
 
 
 
-**Surf Social LLC, May 2924 - August 2024**
+**Surf Social LLC, May 2024 - August 2024**
 
 _Software Engineer Intern - San Francisco Bay Area, CA_
 
